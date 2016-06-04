@@ -1,5 +1,3 @@
-# CSR
----
 # 1Reto
 
 ![Objetivo: Combatir la pobreza](images/hackaton_convocatoria_small.png)
@@ -38,10 +36,11 @@
 
 ---
 # Viabilidad
-* Desde el 2011  Softlogik ha capturado 4 millones de páginas
-* Empleando a 60 capturistas presenciales
+* Softlogik.mx (2011): Emplea a 60 capturistas presenciales
 
-> El director de softlogik se compremetió a contratar a nuestros Capturistas Sobre ruedas! en cuanto esté la plataforma :D
+> Su director se comprometió a contratar a los Capturistas Sobre ruedas! :D
+---
+# GRACIAS
 
 ---
 # Cómo nos puedes ayudar?
@@ -51,8 +50,6 @@
 * Si tienes trabajos remotos, platiquemos
 * Si eres VC, pues invierte en nosotros para poder trabajar en esto de tiempo completo.
 * Si eres developer, clona nuestro repo en github y ayúdanos a trabajar.
----
-# GRACIAS
 ---
 # Preguntas frequentes:
 * Una persona pobre no tiene Internet ni celular.
