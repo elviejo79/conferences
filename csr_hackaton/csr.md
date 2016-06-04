@@ -29,8 +29,7 @@
 
 ---
 
-#Tecnología
-## DEMO
+# Demo
 ##FrontEnd
 ![Google Polymer](images/polymer.jpeg)
 ![Apache Cordova](images/cordova.png)
