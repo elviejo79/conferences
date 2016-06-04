@@ -1,66 +1,61 @@
 # CSR
 ---
-# Objetivo
-> Combatir la pobreza
+# 1Reto
 
-<section data-background="images/hackaton_convocatoria_small.png">
-
-
+![Objetivo: Combatir la pobreza](images/hackaton_convocatoria_small.png)
 
 ---
 
 # La persona más pobre de México
 > Una mujer con discapacidad, anciana e indígena.
-![](images/wararika.jpeg)
-<section data-background="images/wararika.jpeg">
 
-___
-* 4.9% de los Méxicanos (5.4% en Zacatecas) {.fragment}
-* 90% de desempleo en las personas con discapacidad {.fragment}
+![](images/wararika.jpeg)
+
 
 ---
-# Empresarios: Juan (Softlogik)
-
-> Y luego se quejan de que en méxico no hay trabajo!
-
-    <aside class="notes">
-    Lo que pasa es que no hay personas que por $4,000 pesos al mes puedan costearse: el camión, el almuerzo y demás
-    Pero el empresario tiene razón tampoco puedes pagar mucho más por el trabajo de captura.
-    </aside>
+# Impacto: La discapacidad en méxico
+* [5 millones 739 mil 270, (5.1%)](http://cuentame.inegi.org.mx/poblacion/discapacidad.aspx?tema=P)
+* Desempleo del 90% ( [población en gral. 4.1%](http://www.noticiasmvs.com/#!/noticias/tasa-de-desempleo-en-mexico-baja-a-41-en-enero-de-2016-ocde-348) )
+![tipo de discapacidad](images/porcentaje_discapacidad.gif)
 
 ---
 
 # Capturista sobre ruedas
   Generar *empleo* para personas con *discapacidad* a través del *teletrabajo*.
 
-* Hoy: Digitalización de documentos. {.fragment}
-* Futuro: Call center remoto, contabilidad remota, resúmenes de escritos {.fragment}
-
 ---
 # Cómo lo hacemos?
 ![proceso capturista](images/flujo_capturista.png)
 
 ---
-# Qué logramos en este Hackaton?
-* la aplicación de los capturistas
-* el servidor que envía trabajo
-* la contabilidad de lo que se le debe
+
+#Tecnología
+## DEMO
+##FrontEnd
+![Google Polymer](images/polymer.jpeg)
+![Apache Cordova](images/cordova.png)
+##BackEnd
+![Elixir](images/elixir_lang.png)
 
 ---
-# Qué sigue?
-* Seguir desarrolllando la APP
-* Cerrar el primer contrato de digitalización remota.
+# Viabilidad
+* Desde el 2011  Softlogik ha capturado 4 millones de páginas
+* Empleando a 60 capturistas presenciales
+
+> El director de softlogik se compremetió a contratar a nuestros Capturistas Sobre ruedas! en cuanto esté la plataforma :D
 
 ---
 # Cómo nos puedes ayudar?
-* Si tienes necesidades de digitalización, contrata a SoftLogiK
-* Si tienes una empresa de digitalización, contratanos
-* Si tienes trabajos de información, platiquemos
-* Si eres developer, clona nuestro repo y ayúdanos a trabajar.
-* Si eres VC, pues invierte en nosotros para poder trabajar en esto de tiempo completo.
 
+* Si tienes necesidades de digitalización, contrata a SoftLogiK.mx
+* Si tienes una empresa de digitalización, contrata a nuestros capturistas
+* Si tienes trabajos remotos, platiquemos
+* Si eres VC, pues invierte en nosotros para poder trabajar en esto de tiempo completo.
+* Si eres developer, clona nuestro repo en github y ayúdanos a trabajar.
+---
+# GRACIAS
 ---
 # Preguntas frequentes:
+* Una persona pobre no tiene Internet ni celular.
 * Y la seguridad de la información? (VPN, secciones )
 * Por qué Software Libre? (acercar el empleo)
-* Una persona con interenet y celular ya no es pobre. (en méxico exiset 79 millones de smartphones, su penetración hace que ya no sea inidicador  de clase social.)
